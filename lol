@@ -42,7 +42,7 @@ getgenv().Aiming = {
     FOVSides = 12,
     FOVColour = Color3fromRGB(255, 255, 255),
 
-    VisibleCheck = false,
+    VisibleCheck = true,
     
     HitChance = 100,
 
